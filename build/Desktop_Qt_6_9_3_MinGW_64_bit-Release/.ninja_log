@@ -1,0 +1,27 @@
+# ninja log v6
+24	162	7964887115295542	.qt/qml_imports/1xiangmu_build.cmake	1bb9946e0f6f9ddb
+28	226	7964902477484231	1xiangmu_autogen/mocs_compilation.cpp	57f906631740a122
+24	162	7964887115295542	D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/.qt/qml_imports/1xiangmu_build.cmake	1bb9946e0f6f9ddb
+28	226	7964902477484231	1xiangmu_autogen/timestamp	57f906631740a122
+242	2947	7964902479622172	CMakeFiles/1xiangmu.dir/tianqi.cpp.obj	51d6d2d46a9ce833
+28	226	7964902477484231	D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/1xiangmu_autogen/timestamp	57f906631740a122
+28	226	7964902477484231	D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/1xiangmu_autogen/mocs_compilation.cpp	57f906631740a122
+230	2195	7964902479506397	CMakeFiles/1xiangmu.dir/dingshi.cpp.obj	494bc74d53edeb73
+234	3007	7964902479536392	CMakeFiles/1xiangmu.dir/jisuan.cpp.obj	663ec062cff59ea1
+1148	3492	7964887125516983	CMakeFiles/1xiangmu.dir/main.cpp.obj	1ed4e60492456209
+1144	3622	7964887125477505	CMakeFiles/1xiangmu.dir/1xiangmu_autogen/mocs_compilation.cpp.obj	727bbe7488397d2
+227	3437	7964902479466339	CMakeFiles/1xiangmu.dir/widget.cpp.obj	517bd8f7223e9e5
+237	3606	7964902479576430	CMakeFiles/1xiangmu.dir/fanyi.cpp.obj	11f57fa443b4f18c
+3720	3882	7964887151238947	1xiangmu.exe	adf813cb492561be
+23	1180	7964905360954302	build.ninja	26cc8c1fa4e896e8
+23	1207	7964905360954302	build.ninja	26cc8c1fa4e896e8
+28	240	7964905361641174	1xiangmu_autogen/timestamp	57f906631740a122
+28	240	7964905361641174	1xiangmu_autogen/mocs_compilation.cpp	57f906631740a122
+28	240	7964905361641174	D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/1xiangmu_autogen/timestamp	57f906631740a122
+28	240	7964905361641174	D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/1xiangmu_autogen/mocs_compilation.cpp	57f906631740a122
+244	2258	7964905363799449	CMakeFiles/1xiangmu.dir/dingshi.cpp.obj	494bc74d53edeb73
+258	3023	7964905363943197	CMakeFiles/1xiangmu.dir/tianqi.cpp.obj	51d6d2d46a9ce833
+248	3056	7964905363839453	CMakeFiles/1xiangmu.dir/jisuan.cpp.obj	663ec062cff59ea1
+241	3479	7964905363769448	CMakeFiles/1xiangmu.dir/widget.cpp.obj	517bd8f7223e9e5
+251	3671	7964905363869455	CMakeFiles/1xiangmu.dir/fanyi.cpp.obj	11f57fa443b4f18c
+3671	3963	7964905398065949	1xiangmu.exe	adf813cb492561be

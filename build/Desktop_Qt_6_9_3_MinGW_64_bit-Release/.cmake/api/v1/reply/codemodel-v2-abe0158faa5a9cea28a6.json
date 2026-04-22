@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-ad8235db77860107a02f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1xiangmu",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1xiangmu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1xiangmu-Release-b4d77117103865bfb8e1.json",
+					"name" : "1xiangmu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1xiangmu_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1xiangmu_autogen-Release-d7ca1774baadea29572a.json",
+					"name" : "1xiangmu_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1xiangmu_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1xiangmu_autogen_timestamp_deps-Release-c0e445cc0b952401a409.json",
+					"name" : "1xiangmu_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1xiangmu_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1xiangmu_qmlimportscan-Release-8a8c69bda07e4a7c0958.json",
+					"name" : "1xiangmu_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release",
+		"source" : "D:/1xiangmu"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

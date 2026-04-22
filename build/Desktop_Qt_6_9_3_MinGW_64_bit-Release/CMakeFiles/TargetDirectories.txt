@@ -1,0 +1,10 @@
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/1xiangmu.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/1xiangmu_qmlimportscan.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/install.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/1xiangmu_autogen_timestamp_deps.dir
+D:/1xiangmu/build/Desktop_Qt_6_9_3_MinGW_64_bit-Release/CMakeFiles/1xiangmu_autogen.dir
